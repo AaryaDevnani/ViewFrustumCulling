@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://github.com/AaryaDevnani/TribesNetworkingModel/assets/62675730/800544b3-1dfc-4fd3-9726-ec4ea7846d95](https://github.com/AaryaDevnani/ViewFrustumCulling/assets/62675730/cfea8182-b5a5-4847-adc3-c918bc32b2d1)" alt="View Frustum Culling Demo Gif" />
+  <img src="https://github.com/AaryaDevnani/ViewFrustumCulling/assets/62675730/cfea8182-b5a5-4847-adc3-c918bc32b2d1" alt="View Frustum Culling Demo Gif" />
 </p>
 <p align="center">
 View Frustum Culling Demo
